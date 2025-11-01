@@ -1,5 +1,5 @@
 {
-  "name": "insert-name-here",
+  "name": "odin-weather-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DrkNxt/insert-name-here.git"
+    "url": "git+https://github.com/DrkNxt/odin-weather-app.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DrkNxt/insert-name-here/issues"
+    "url": "https://github.com/DrkNxt/odin-weather-app/issues"
   },
-  "homepage": "https://github.com/DrkNxt/insert-name-here#readme",
+  "homepage": "https://github.com/DrkNxt/odin-weather-app#readme",
   "devDependencies": {
     "@eslint/js": "^9.38.0",
     "css-loader": "^7.1.2",
